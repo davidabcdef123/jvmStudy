@@ -6,6 +6,7 @@ public class Test2 {
         f1(1);
     }
 
+    //栈针貌似是一个？为什么
     public static void f1(int i) {
         System.out.println(i);
         i++;
