@@ -1,9 +1,5 @@
 package com.david;
 
-/**
- * @author: sun chao
- * Create at: 2019-05-14
- */
 public class Test2 {
 
     public static void main(String[] args) {

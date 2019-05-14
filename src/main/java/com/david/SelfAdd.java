@@ -1,9 +1,5 @@
 package com.david;
 
-/**
- * @author: sun chao
- * Create at: 2019-05-13
- */
 public class SelfAdd {
 
     public static void main(String[] args) {
