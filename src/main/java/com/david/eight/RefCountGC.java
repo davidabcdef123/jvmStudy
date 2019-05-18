@@ -1,4 +1,4 @@
-package com.david;
+package com.david.eight;
 
 //-verbose:gc -XX:+PrintGCDetails
 public class RefCountGC {

@@ -1,4 +1,4 @@
-package com.david;
+package com.david.eight;
 
 //-verbose:gc -XX:+PrintGCDetails -Xms20M -Xmx20M -Xmn10M
 public class SpaceGuarantee {
